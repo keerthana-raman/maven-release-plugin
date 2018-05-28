@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>usr.kraman.maven-release-plugin</groupId>
 	<artifactId>maven-release-plugin</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>maven-release-plugin</name>
 	<description>maven-release-plugin</description>
 	<properties>
@@ -20,7 +20,7 @@
 	</distributionManagement>
 	<scm>
 		<developerConnection>scm:git:https://github.com/keerthana-raman/maven-release-plugin.git</developerConnection>
-		<tag>maven-release-plugin-0.0.1</tag>
+		<tag>maven-release-plugin-0.0.3</tag>
 	</scm>
 	<build>
 		<plugins>
