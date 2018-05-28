@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>usr.kraman.maven-release-plugin</groupId>
 	<artifactId>maven-release-plugin</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>maven-release-plugin</name>
 	<description>maven-release-plugin</description>
 	<properties>
